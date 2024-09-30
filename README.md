@@ -29,9 +29,10 @@
 ## Getting Started
 
 To use Sudarshan, follow these steps:
-2. **Document Upload**: Upload your document for verification.
-3. **Verification Process**: Your document will go through the verification stages.
-4. **Document Generation**: Once verified, you can generate new documents using your verified details.
+
+1. **Document Upload**: Upload your document for verification.
+2. **Verification Process**: Your document will go through the verification stages.
+3. **Document Generation**: Once verified, you can generate new documents using your verified details.
 
 ## Technology Stack
 - **AI/ML Techniques**: For document verification and enhancements.
