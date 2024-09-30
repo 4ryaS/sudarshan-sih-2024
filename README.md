@@ -1,7 +1,7 @@
 # Sudarshan
 
-## 🎥 Watch Our Introduction Video
-[**Click here to watch the video on YouTube!**](https://www.youtube.com/watch?v=BXA8L5ZDczY)
+## 📢 **Watch Our Introduction Video!**
+> **[🎥 Click here to watch the video on YouTube!](https://www.youtube.com/watch?v=BXA8L5ZDczY)**
 
 ## Overview
 
