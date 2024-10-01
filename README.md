@@ -3,7 +3,6 @@
 ## 📢 **Watch Our Introduction Video!**
 ## **[🎥 Click here to watch the video on YouTube!](https://www.youtube.com/watch?v=BXA8L5ZDczY)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BXA8L5ZDczY?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 
 ## Overview
